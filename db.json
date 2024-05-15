@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "id": "",
+      "username": "",
+      "email": "",
+      "status": ""
+    },
+    {
+      "id": 1,
+      "username": "ljjo",
+      "email": "jlji",
+      "status": true
+    },
+    {
+      "id": null,
+      "username": "sflkgndlkg",
+      "email": ";skd;fk;sdfkm",
+      "status": true
+    },
+    {
+      "id": null,
+      "username": "ldjdkj",
+      "email": "kf;aok",
+      "status": true
+    }
+  ]
+}
